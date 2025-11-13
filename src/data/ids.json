@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "LCB Sinner",
+    "imagePath": "IDArt/Yi Sang/LCB Sinner.png",
+    "sinner": "Yi Sang",
+    "rarity": 0,
+    "preciseKeywords": ["Limbus Company", "LCB"],
+    "statusKeywords": ["Sinking"],
+    "season": "Standard Fare",
+    "passiveCount": {
+      "combat": 1,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Seven Assoc. South Section 6 Yi Sang",
+    "imagePath": "IDArt/Yi Sang/Seven Assoc. South Section 6.png",
+    "sinner": "Yi Sang",
+    "rarity": 1,
+    "preciseKeywords": ["Fixer", "Seven Association"],
+    "statusKeywords": ["Rupture"],
+    "season": "Standard Fare",
+    "passiveCount": {
+      "combat": 1,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Molar Office Fixer Yi Sang",
+    "imagePath": "IDArt/Yi Sang/Molar Office Fixer.png",
+    "sinner": "Yi Sang",
+    "rarity": 1,
+    "preciseKeywords": ["Fixer","Molar Office"],
+    "statusKeywords": ["Tremor"],
+    "season": "Season 2 - Reminiscence",
+    "passiveCount": {
+      "combat": 1,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Molar Office Fixer Yi Sang",
+    "imagePath": "IDArt/Yi Sang/Molar Office Fixer.png",
+    "sinner": "Yi Sang",
+    "rarity": 1,
+    "preciseKeywords": ["Fixer","Molar Office"],
+    "statusKeywords": ["Tremor"],
+    "season": "Season 2 - Reminiscence",
+    "passiveCount": {
+      "combat": 1,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 14
+          }
+        ]
+      }
+    ]
+  }
+]
